@@ -115,7 +115,7 @@ Top Recommendations:
 
 ## 🧑‍💻 Author
 
-Built by **Adnan Al-Teez**  
+Built by **Drishti Jaiswal**  
 Learning recommender systems through hands-on implementation.  
 Designed to simulate the Netflix algorithm pipeline using real data.
 
